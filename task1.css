@@ -1,0 +1,96 @@
+.parent{
+  display:flex;
+  width: 100%;
+  flex-direction: row;
+  background-color: rgb(242, 112, 13);
+  font-size: 50px;
+  
+}
+.parent div{
+  height:700px;
+}
+.child1{
+
+  background-color:green;
+  color: white;
+  width: 11%;
+  text-align: center;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  
+}
+.child2{
+
+  background-color:yellow;
+  color: white;
+  width: 11%;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.child3{
+
+  background-color:purple;
+  color: white;
+  width: 11%;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.child4{
+
+  background-color:gray;
+  color: white;
+  width: 11%;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.child5{
+
+  background-color:blue;
+  color: white;
+  width: 11%;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.child6{
+
+  background-color:orange;
+  color: white;
+  width: 11%;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.child7{
+
+  background-color:pink;
+  color: white;
+  width: 11%;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.child8{
+
+  background-color:red;
+  color: white;
+  width: 11%;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.child9{
+
+  background-color:brown;
+  color: white;
+  width: 11%;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+
